@@ -1,0 +1,528 @@
+.freelancecom {
+    position: absolute;
+    top: 21px;
+    left: 32px;
+    font-size: var(--font-size-21xl);
+    font-family: var(--font-pt-sans);
+    cursor: pointer;
+  }
+  .orders,
+  .services {
+    position: absolute;
+    top: 22px;
+    left: 732px;
+    font-weight: 600;
+    cursor: pointer;
+  }
+  .orders {
+    left: 1127px;
+  }
+  .icon-magnifying-glass1 {
+    height: 60%;
+    width: 3.02%;
+    top: 20%;
+    right: 5.83%;
+    bottom: 20%;
+    left: 91.15%;
+    max-width: 100%;
+    max-height: 100%;
+  }
+  .header,
+  .icon-magnifying-glass1,
+  .icon-person {
+    position: absolute;
+    overflow: hidden;
+  }
+  .icon-person {
+    height: 58.95%;
+    width: 3.23%;
+    top: 20%;
+    right: 0.89%;
+    bottom: 21.05%;
+    left: 95.89%;
+    max-width: 100%;
+    max-height: 100%;
+  }
+  .header {
+    top: -5px;
+    left: 0;
+    background-color: var(--color-midnightblue-100);
+    width: 1920px;
+    height: 95px;
+    font-size: var(--font-size-17xl);
+  }
+  .egypt {
+    margin: 0;
+  }
+  .egypt-201047000000-freelance-container {
+    position: absolute;
+    top: 103px;
+    left: 1469px;
+  }
+  .for-clients {
+    margin: 0;
+    font-size: var(--font-size-5xl);
+    font-weight: 500;
+  }
+  .for-clients-find-container {
+    position: absolute;
+    top: 43px;
+    left: 740px;
+  }
+  .span {
+    font-weight: 500;
+  }
+  .p4 {
+    margin: 0;
+    font-size: var(--font-size-lg);
+  }
+  .call-us,
+  .for-freelancers-find-container {
+    position: absolute;
+    top: 43px;
+    left: 1070px;
+    font-size: var(--font-size-5xl);
+  }
+  .call-us {
+    left: 1432px;
+    font-weight: 500;
+  }
+  .powerful-freelance-marketplace {
+    position: absolute;
+    top: 103px;
+    left: 250px;
+    display: inline-block;
+    width: 312px;
+  }
+  .carbonlocation-icon,
+  .carbonphone-voice-icon,
+  .clarityemail-line-icon {
+    position: absolute;
+    top: 106px;
+    left: 1432px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+  }
+  .carbonphone-voice-icon,
+  .clarityemail-line-icon {
+    top: 158px;
+  }
+  .clarityemail-line-icon {
+    top: 215px;
+  }
+  .ant-designinstagram-filled-icon {
+    position: relative;
+    width: 30px;
+    height: 30px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .download-1-icon {
+    position: relative;
+    width: 29px;
+    height: 29px;
+    object-fit: cover;
+  }
+  .ant-designinstagram-filled-parent {
+    position: absolute;
+    top: 199px;
+    left: 245px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-8xl);
+  }
+  .vector-icon1 {
+    position: absolute;
+    top: 202px;
+    left: 364px;
+    width: 11.7px;
+    height: 22.5px;
+  }
+  .about-us,
+  .freelancer-all-right {
+    position: absolute;
+    top: 245px;
+    left: 764px;
+    color: var(--color-darkgray-200);
+  }
+  .about-us {
+    top: 43px;
+    left: 250px;
+    font-size: var(--font-size-5xl);
+    font-weight: 500;
+    color: var(--color-black);
+  }
+  .footer {
+    position: absolute;
+    top: 1502px;
+    left: 0;
+    background: linear-gradient(180deg, #f5f5f5, rgba(252, 252, 252, 0));
+    width: 1920px;
+    height: 282px;
+    overflow: hidden;
+    font-size: var(--font-size-lg);
+    color: var(--color-midnightblue-100);
+  }
+  .proceed-to-orders {
+    position: absolute;
+    top: 1368px;
+    left: 858px;
+    font-family: var(--font-inter);
+    text-align: center;
+    cursor: pointer;
+  }
+  .group-child {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 15px;
+    background-color: var(--color-whitesmoke);
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.25);
+    width: 1000px;
+    height: 967px;
+  }
+  .order-summary {
+    position: absolute;
+    top: 171px;
+    left: 123px;
+    font-size: var(--font-size-21xl);
+    font-weight: 300;
+    color: var(--color-black);
+  }
+  .div,
+  .order-total {
+    position: absolute;
+    top: 851px;
+    font-size: var(--font-size-17xl);
+    font-weight: 300;
+  }
+  .order-total {
+    left: 234px;
+    color: var(--color-black);
+  }
+  .div {
+    left: 669px;
+    text-align: right;
+  }
+  .conditions-of-use,
+  .div {
+    color: var(--color-black);
+  }
+  .by-placing-your-container {
+    position: absolute;
+    top: 62px;
+    left: 73px;
+    font-size: var(--font-size-xl);
+    font-weight: 300;
+  }
+  .div1,
+  .div2,
+  .items-3,
+  .shipping-and-handling {
+    position: absolute;
+    font-weight: 300;
+    display: inline-block;
+  }
+  .items-3 {
+    top: 239px;
+    left: 130px;
+    width: 123px;
+    height: 146px;
+  }
+  .div1,
+  .div2,
+  .shipping-and-handling {
+    width: 309px;
+  }
+  .div1 {
+    top: 239px;
+    left: 561px;
+    text-align: right;
+    height: 73px;
+  }
+  .div2,
+  .shipping-and-handling {
+    top: 318px;
+    left: 130px;
+    height: 146px;
+  }
+  .div2 {
+    left: 561px;
+    text-align: right;
+    height: 73px;
+  }
+  .before-tax {
+    top: 398px;
+    left: 130px;
+    width: 145px;
+    height: 146px;
+  }
+  .before-tax,
+  .div3,
+  .order-id,
+  .tax-collected {
+    position: absolute;
+    font-weight: 300;
+    display: inline-block;
+  }
+  .div3 {
+    top: 398px;
+    left: 561px;
+    text-align: right;
+    width: 309px;
+    height: 73px;
+  }
+  .order-id,
+  .tax-collected {
+    top: 477px;
+    left: 130px;
+    width: 193px;
+    height: 48px;
+  }
+  .order-id {
+    top: 556px;
+  }
+  .div4 {
+    top: 477px;
+    left: 809px;
+    font-weight: 300;
+    text-align: right;
+    width: 61px;
+    height: 26px;
+  }
+  .customer-name,
+  .div4,
+  .div5 {
+    position: absolute;
+    display: inline-block;
+  }
+  .div5 {
+    top: 556px;
+    left: 782px;
+    line-height: 25.55px;
+    font-family: var(--font-inter);
+    color: var(--gray-500);
+    text-align: right;
+    width: 96px;
+    height: 26px;
+  }
+  .customer-name {
+    top: 634px;
+    left: 130px;
+    font-weight: 300;
+    width: 215px;
+    height: 48px;
+  }
+  .cody-fisher {
+    position: absolute;
+    top: 634px;
+    left: 741px;
+    line-height: 25.55px;
+    font-family: var(--font-inter);
+    color: var(--gray-500);
+    text-align: right;
+  }
+  .order-number {
+    position: absolute;
+    top: 705px;
+    left: 130px;
+    font-weight: 300;
+    display: inline-block;
+    width: 215px;
+    height: 48px;
+  }
+  .div6 {
+    position: absolute;
+    top: 715px;
+    left: 764px;
+    line-height: 25.55px;
+    font-family: var(--font-inter);
+    color: var(--gray-500);
+    text-align: right;
+  }
+  .group-inner,
+  .group-item {
+    position: absolute;
+    top: 147.5px;
+    left: 99.5px;
+    border-top: 1px solid var(--color-darkgray-100);
+    box-sizing: border-box;
+    width: 801px;
+    height: 1px;
+  }
+  .group-inner {
+    top: 795.5px;
+  }
+  .order-receipt-inner,
+  .rectangle-parent {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1000px;
+    height: 967px;
+  }
+  .order-receipt-inner {
+    top: 296px;
+    left: 460px;
+    color: var(--color-dimgray);
+  }
+  .order-receipt,
+  .search-child {
+    background-color: var(--color-white);
+  }
+  .order-receipt {
+    position: relative;
+    width: 100%;
+    height: 1784px;
+    text-align: left;
+    font-size: var(--font-size-5xl);
+    color: var(--color-white);
+    font-family: var(--font-poppins);
+  }
+  .search-child {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: var(--br-3xs);
+    box-shadow: 0 4px 4px rgba(14, 27, 96, 0.58);
+    width: 420px;
+    height: 76px;
+  }
+  .search-item {
+    position: absolute;
+    top: 13px;
+    left: 359px;
+    border-radius: 50%;
+    background-color: var(--color-midnightblue-100);
+    width: 50px;
+    height: 50px;
+  }
+  .search1 {
+    position: absolute;
+    top: 26px;
+    left: 26px;
+    letter-spacing: 0.15em;
+  }
+  .icon-magnifying-glass {
+    position: absolute;
+    height: 42.89%;
+    width: 7.62%;
+    top: 28.95%;
+    right: 4.76%;
+    bottom: 28.16%;
+    left: 87.62%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .search {
+    position: relative;
+    width: 420px;
+    height: 76px;
+    overflow: hidden;
+    max-width: 90%;
+    max-height: 90%;
+    text-align: left;
+    font-size: var(--font-size-xl);
+    color: var(--color-darkgray-200);
+    font-family: var(--font-poppins);
+  }
+  .user-1-icon1,
+  .vector-icon {
+    position: absolute;
+    height: 60.35%;
+    width: 32.24%;
+    top: 27.02%;
+    right: 33.45%;
+    bottom: 12.63%;
+    left: 34.31%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .user-1-icon1 {
+    height: 75.09%;
+    width: 75%;
+    top: 12.46%;
+    right: 12.41%;
+    bottom: 12.46%;
+    left: 12.59%;
+    object-fit: cover;
+  }
+  .icon {
+    position: absolute;
+    margin: 0 !important;
+    top: 16px;
+    left: 11px;
+    width: 58px;
+    height: 57px;
+    z-index: 0;
+  }
+  .exampleexcom {
+    margin: 0;
+  }
+  .exampleexcom-username {
+    position: absolute;
+    margin: 0 !important;
+    top: 23px;
+    left: 102px;
+    font-size: var(--font-size-xl);
+    display: inline-block;
+    color: var(--color-gray-200);
+    text-align: left;
+    z-index: 1;
+  }
+  .logout,
+  .manage-account {
+    position: absolute;
+    margin: 0 !important;
+    top: 107px;
+    left: 102px;
+    text-transform: uppercase;
+    z-index: 2;
+  }
+  .logout {
+    top: 188px;
+    z-index: 3;
+  }
+  .logout-1-icon,
+  .settings-1-icon {
+    position: absolute;
+    margin: 0 !important;
+    top: 99px;
+    left: 22px;
+    width: 35px;
+    height: 35px;
+    object-fit: cover;
+    z-index: 4;
+  }
+  .logout-1-icon {
+    top: 180px;
+    z-index: 5;
+  }
+  .facebookdefault {
+    position: relative;
+    border-radius: 32px;
+    background-color: var(--color-white);
+    border: 1px solid var(--color-silver-200);
+    box-sizing: border-box;
+    width: 568px;
+    height: 257px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 18px 113px;
+    gap: var(--gap-3xs);
+    max-width: 90%;
+    max-height: 90%;
+    overflow: auto;
+    text-align: center;
+    font-size: var(--font-size-base);
+    color: var(--color-black);
+    font-family: var(--font-arial);
+  }
+  
